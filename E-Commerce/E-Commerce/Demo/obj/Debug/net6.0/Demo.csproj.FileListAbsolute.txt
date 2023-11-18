@@ -1,0 +1,389 @@
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\appsettings.Development.json
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\appsettings.json
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Demo.exe
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Demo.deps.json
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Demo.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Demo.pdb
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+F:\route course\C# WebApi\Session 01\Demo\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\route course\C# WebApi\Session 01\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+F:\route course\C# WebApi\Session 01\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+F:\route course\C# WebApi\Session 01\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+F:\route course\C# WebApi\Session 01\Demo\Demo\obj\Debug\net6.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+F:\route course\C# WebApi\Session 01\Demo\Demo\obj\Debug\net6.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+F:\route course\C# WebApi\Session 01\Demo\Demo\obj\Debug\net6.0\staticwebassets.build.json
+F:\route course\C# WebApi\Session 01\Demo\Demo\obj\Debug\net6.0\staticwebassets.development.json
+F:\route course\C# WebApi\Session 01\Demo\Demo\obj\Debug\net6.0\scopedcss\bundle\Demo.styles.css
+F:\route course\C# WebApi\Session 01\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CopyComplete
+F:\route course\C# WebApi\Session 01\Demo\Demo\obj\Debug\net6.0\Demo.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\obj\Debug\net6.0\refint\Demo.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\obj\Debug\net6.0\Demo.pdb
+F:\route course\C# WebApi\Session 01\Demo\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+F:\route course\C# WebApi\Session 01\Demo\Demo\obj\Debug\net6.0\ref\Demo.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Humanizer.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Core.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Infrastructure.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Services.dll
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Services.pdb
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Core.pdb
+F:\route course\C# WebApi\Session 01\Demo\Demo\bin\Debug\net6.0\Infrastructure.pdb
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\appsettings.Development.json
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\appsettings.json
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Demo.exe
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Demo.deps.json
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Demo.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Demo.pdb
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Humanizer.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Core.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Infrastructure.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Services.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Services.pdb
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Core.pdb
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Infrastructure.pdb
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\obj\Debug\net6.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\obj\Debug\net6.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\obj\Debug\net6.0\staticwebassets.build.json
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\obj\Debug\net6.0\staticwebassets.development.json
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\obj\Debug\net6.0\scopedcss\bundle\Demo.styles.css
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CopyComplete
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\obj\Debug\net6.0\Demo.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\obj\Debug\net6.0\refint\Demo.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\obj\Debug\net6.0\Demo.pdb
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\obj\Debug\net6.0\ref\Demo.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\AutoMapper.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\route course\C# WebApi\Session 02\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 1 No 31]\Demo\Demo\bin\Debug\net6.0\Demo.staticwebassets.runtime.json
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\appsettings.Development.json
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\appsettings.json
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Demo.staticwebassets.runtime.json
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Demo.exe
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Demo.deps.json
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Demo.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Demo.pdb
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\AutoMapper.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Humanizer.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Core.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Infrastructure.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Services.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Services.pdb
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Core.pdb
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Infrastructure.pdb
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\obj\Debug\net6.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\obj\Debug\net6.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\obj\Debug\net6.0\staticwebassets.build.json
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\obj\Debug\net6.0\staticwebassets.development.json
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\obj\Debug\net6.0\scopedcss\bundle\Demo.styles.css
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CopyComplete
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\obj\Debug\net6.0\Demo.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\obj\Debug\net6.0\refint\Demo.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\obj\Debug\net6.0\Demo.pdb
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\obj\Debug\net6.0\ref\Demo.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\StackExchange.Redis.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Demo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\appsettings.Development.json
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\appsettings.json
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Demo.staticwebassets.runtime.json
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Demo.exe
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Demo.deps.json
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Demo.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Demo.pdb
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\AutoMapper.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Humanizer.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\StackExchange.Redis.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Core.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Infrastructure.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Services.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Services.pdb
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Core.pdb
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\bin\Debug\net6.0\Infrastructure.pdb
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\obj\Debug\net6.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\obj\Debug\net6.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\obj\Debug\net6.0\staticwebassets.build.json
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\obj\Debug\net6.0\staticwebassets.development.json
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\obj\Debug\net6.0\scopedcss\bundle\Demo.styles.css
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CopyComplete
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\obj\Debug\net6.0\Demo.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\obj\Debug\net6.0\refint\Demo.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\obj\Debug\net6.0\Demo.pdb
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Demo\obj\Debug\net6.0\ref\Demo.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\appsettings.Development.json
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\appsettings.json
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Demo.staticwebassets.runtime.json
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Demo.exe
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Demo.deps.json
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Demo.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Demo.pdb
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\AutoMapper.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Humanizer.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Core.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Infrastructure.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Services.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Services.pdb
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Core.pdb
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Infrastructure.pdb
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\staticwebassets\msbuild.Demo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\staticwebassets\msbuild.build.Demo.props
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Demo.props
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Demo.props
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\staticwebassets.build.json
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\staticwebassets.development.json
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\scopedcss\bundle\Demo.styles.css
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CopyComplete
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\Demo.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\refint\Demo.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\Demo.pdb
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\obj\Debug\net6.0\ref\Demo.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\Stripe.net.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Demo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

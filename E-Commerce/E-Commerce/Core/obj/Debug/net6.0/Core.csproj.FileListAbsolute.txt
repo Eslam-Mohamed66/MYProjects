@@ -1,0 +1,48 @@
+F:\route course\C# WebApi\Session 01\Demo\Core\bin\Debug\net6.0\Core.deps.json
+F:\route course\C# WebApi\Session 01\Demo\Core\bin\Debug\net6.0\Core.dll
+F:\route course\C# WebApi\Session 01\Demo\Core\bin\Debug\net6.0\Core.pdb
+F:\route course\C# WebApi\Session 01\Demo\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\route course\C# WebApi\Session 01\Demo\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\route course\C# WebApi\Session 01\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\route course\C# WebApi\Session 01\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\route course\C# WebApi\Session 01\Demo\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\route course\C# WebApi\Session 01\Demo\Core\obj\Debug\net6.0\Core.dll
+F:\route course\C# WebApi\Session 01\Demo\Core\obj\Debug\net6.0\refint\Core.dll
+F:\route course\C# WebApi\Session 01\Demo\Core\obj\Debug\net6.0\Core.pdb
+F:\route course\C# WebApi\Session 01\Demo\Core\obj\Debug\net6.0\ref\Core.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Core\bin\Debug\net6.0\Core.deps.json
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Core\bin\Debug\net6.0\Core.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Core\bin\Debug\net6.0\Core.pdb
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Core\obj\Debug\net6.0\Core.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Core\obj\Debug\net6.0\refint\Core.dll
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Core\obj\Debug\net6.0\Core.pdb
+F:\route course\C# WebApi\Session 03\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 3 No 33]\Demo\Core\obj\Debug\net6.0\ref\Core.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Core\obj\Debug\net6.0\Core.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Core\obj\Debug\net6.0\refint\Core.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Core\obj\Debug\net6.0\Core.pdb
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Core\bin\Debug\net6.0\Core.deps.json
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Core\bin\Debug\net6.0\Core.dll
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Core\bin\Debug\net6.0\Core.pdb
+F:\route course\C# WebApi\Session 04\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (API Seesion 4 No 34]\Demo\Core\obj\Debug\net6.0\ref\Core.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Core\bin\Debug\net6.0\Core.deps.json
+D:\assignment\Web API\Assignment_04_Web API\Demo\Core\bin\Debug\net6.0\Core.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Core\bin\Debug\net6.0\Core.pdb
+D:\assignment\Web API\Assignment_04_Web API\Demo\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\assignment\Web API\Assignment_04_Web API\Demo\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\assignment\Web API\Assignment_04_Web API\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\assignment\Web API\Assignment_04_Web API\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\assignment\Web API\Assignment_04_Web API\Demo\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\assignment\Web API\Assignment_04_Web API\Demo\Core\obj\Debug\net6.0\Core.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Core\obj\Debug\net6.0\refint\Core.dll
+D:\assignment\Web API\Assignment_04_Web API\Demo\Core\obj\Debug\net6.0\Core.pdb
+D:\assignment\Web API\Assignment_04_Web API\Demo\Core\obj\Debug\net6.0\ref\Core.dll
