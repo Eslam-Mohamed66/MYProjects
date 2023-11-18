@@ -1,0 +1,60 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Demo.PL
+build_property.RootNamespace = Demo.PL
+build_property.ProjectDir = F:\route course\C# MVC\Session 4\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26]\Demo.MVC\Demo.PL\Demo.PL\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\route course\C# MVC\Session 4\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26]\Demo.MVC\Demo.PL\Demo.PL
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/route course/C\# MVC/Session 4/\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26\]/Demo.MVC/Demo.PL/Demo.PL/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route course/C\# MVC/Session 4/\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26\]/Demo.MVC/Demo.PL/Demo.PL/Views/Department/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route course/C\# MVC/Session 4/\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26\]/Demo.MVC/Demo.PL/Demo.PL/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route course/C\# MVC/Session 4/\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26\]/Demo.MVC/Demo.PL/Demo.PL/Views/Department/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route course/C\# MVC/Session 4/\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26\]/Demo.MVC/Demo.PL/Demo.PL/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route course/C\# MVC/Session 4/\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26\]/Demo.MVC/Demo.PL/Demo.PL/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route course/C\# MVC/Session 4/\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26\]/Demo.MVC/Demo.PL/Demo.PL/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route course/C\# MVC/Session 4/\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26\]/Demo.MVC/Demo.PL/Demo.PL/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route course/C\# MVC/Session 4/\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26\]/Demo.MVC/Demo.PL/Demo.PL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route course/C\# MVC/Session 4/\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26\]/Demo.MVC/Demo.PL/Demo.PL/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route course/C\# MVC/Session 4/\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26\]/Demo.MVC/Demo.PL/Demo.PL/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-717xabic2n

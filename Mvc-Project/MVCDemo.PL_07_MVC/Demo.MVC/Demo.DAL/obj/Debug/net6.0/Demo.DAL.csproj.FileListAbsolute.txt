@@ -1,0 +1,60 @@
+F:\route course\C# MVC\Session 3\Demo.MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+F:\route course\C# MVC\Session 3\Demo.MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+F:\route course\C# MVC\Session 3\Demo.MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+F:\route course\C# MVC\Session 3\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+F:\route course\C# MVC\Session 3\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\route course\C# MVC\Session 3\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+F:\route course\C# MVC\Session 3\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+F:\route course\C# MVC\Session 3\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+F:\route course\C# MVC\Session 3\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+F:\route course\C# MVC\Session 3\Demo.MVC\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+F:\route course\C# MVC\Session 3\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+F:\route course\C# MVC\Session 3\Demo.MVC\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+F:\route course\C# MVC\Session 4\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26]\Demo.MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+F:\route course\C# MVC\Session 4\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26]\Demo.MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+F:\route course\C# MVC\Session 4\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26]\Demo.MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+F:\route course\C# MVC\Session 4\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+F:\route course\C# MVC\Session 4\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\route course\C# MVC\Session 4\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+F:\route course\C# MVC\Session 4\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+F:\route course\C# MVC\Session 4\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+F:\route course\C# MVC\Session 4\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+F:\route course\C# MVC\Session 4\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+F:\route course\C# MVC\Session 4\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+F:\route course\C# MVC\Session 4\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6) No 26]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+F:\route course\C# MVC\Session 5\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 5) No 27]\Demo.MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+F:\route course\C# MVC\Session 5\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 5) No 27]\Demo.MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+F:\route course\C# MVC\Session 5\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 5) No 27]\Demo.MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+F:\route course\C# MVC\Session 5\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 5) No 27]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+F:\route course\C# MVC\Session 5\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 5) No 27]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\route course\C# MVC\Session 5\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 5) No 27]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+F:\route course\C# MVC\Session 5\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 5) No 27]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+F:\route course\C# MVC\Session 5\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 5) No 27]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+F:\route course\C# MVC\Session 5\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 5) No 27]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+F:\route course\C# MVC\Session 5\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 5) No 27]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+F:\route course\C# MVC\Session 5\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 5) No 27]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+F:\route course\C# MVC\Session 5\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 5) No 27]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+F:\route course\C# MVC\Session 6\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6 No 28]\Demo.MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+F:\route course\C# MVC\Session 6\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6 No 28]\Demo.MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+F:\route course\C# MVC\Session 6\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6 No 28]\Demo.MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+F:\route course\C# MVC\Session 6\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6 No 28]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+F:\route course\C# MVC\Session 6\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6 No 28]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\route course\C# MVC\Session 6\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6 No 28]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+F:\route course\C# MVC\Session 6\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6 No 28]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+F:\route course\C# MVC\Session 6\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6 No 28]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+F:\route course\C# MVC\Session 6\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6 No 28]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+F:\route course\C# MVC\Session 6\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6 No 28]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+F:\route course\C# MVC\Session 6\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6 No 28]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+F:\route course\C# MVC\Session 6\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 6 No 28]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+F:\route course\C# MVC\Session 7\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 7 No 30]\Demo.MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+F:\route course\C# MVC\Session 7\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 7 No 30]\Demo.MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+F:\route course\C# MVC\Session 7\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 7 No 30]\Demo.MVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+F:\route course\C# MVC\Session 7\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 7 No 30]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+F:\route course\C# MVC\Session 7\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 7 No 30]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\route course\C# MVC\Session 7\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 7 No 30]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+F:\route course\C# MVC\Session 7\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 7 No 30]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+F:\route course\C# MVC\Session 7\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 7 No 30]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+F:\route course\C# MVC\Session 7\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 7 No 30]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+F:\route course\C# MVC\Session 7\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 7 No 30]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+F:\route course\C# MVC\Session 7\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 7 No 30]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+F:\route course\C# MVC\Session 7\[ُEslamOsamaShaker - C40 Mon&Thur 7pm chanaged to 4pm Offline - (MVC seesion 7 No 30]\Demo.MVC\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll

@@ -1,0 +1,56 @@
+﻿@model EmployeeViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Employee Details</h1>
+<br />
+<br />
+<div class="row">
+    <div class="col-12">
+        <div class="form-group">
+            <label asp-for="@Model.Name" class="col-form-label">Name</label>
+            <input asp-for="@Model.Name" class="form-control" readonly/>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.Address" class="col-form-label">Address</label>
+            <input asp-for="@Model.Address" class="form-control" readonly/>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.Salary" class="col-form-label">Salary</label>
+            <input asp-for="@Model.Salary" class="form-control" readonly />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.IsActive" class="col-form-label">Is Active</label>
+            <input asp-for="@Model.IsActive" class="form-control" readonly />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.Email" class="col-form-label">Email</label>
+            <input asp-for="@Model.Email" class="form-control" readonly />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.HireDate" class="col-form-label">Hire Date</label>
+            <input asp-for="@Model.HireDate" class="form-control" readonly />
+        </div>
+
+       @* <div class="form-group">
+            <label asp-for="@Model.ImageUrl" class="col-form-label">Image URL</label>
+            <input asp-for="@Model.ImageUrl" class="form-control" readonly />
+        </div>*@
+
+        <div class="form-group">
+            <label asp-for="@Model.DepartmentId" class="col-form-label">Department</label>
+            <input asp-for="@Model.DepartmentId" class="form-control" readonly />
+        </div>
+
+        <br />
+        <a asp-action="Update" asp-route-id="@Model.Id" class="btn btn-success">Update</a>
+        <a asp-action="Index" class="btn btn-light">Back To List</a>
+    </div>
+</div>
