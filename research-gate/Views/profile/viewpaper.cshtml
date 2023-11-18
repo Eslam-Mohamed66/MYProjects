@@ -1,0 +1,71 @@
+﻿@model Gate.Models.p
+
+@{
+    ViewBag.Title = "viewpaper";
+}
+
+
+<h2>@ViewBag.name</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="@Model.file" height="150px" class="hh" />
+<h1>______________________________</h1>
+
+
+@{foreach (var item in Model.Comms)
+   {
+        <h3> @item.User.fname @item.User.lname : @item.comment </h3>
+   }
+}
+
+
+
+
+
+
+
+<iframe src="@Model.file1" height="400px" width="250px" ></iframe>
+<h1>@Model.name</h1>
+<h3> name  Author : @Model.user.fname @Model.user.lname</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@{
+    foreach (var item in Model.Userinpaper)
+    {
+        <a href="/profile/one_person/@item.partener.id">
+            <img src="@item.partener.photo" height="60px" />
+        </a>
+        <h3 class="jj" > @item.partener.fname @item.partener.lname</h3>
+    }
+}
+

@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewBag.Title = "signup";
+}
+
+
+
+
+
+
+
+
+
+<div class="login-form">
+    <form method="post" action="/Home/signup" enctype = "multipart/form-data">
+        <h1>SignUp</h1>
+        <div class="content">
+
+            <div class="input-field">
+                <h3>Frist name</h3>
+                <input type="text" name="fname" placeholder="Frist name" autocomplete="nope">
+            </div>
+
+            <div class="input-field">
+                <h3>last name</h3>
+                <input type="text" name="lname" placeholder="last name" autocomplete="nope">
+            </div>
+
+            <div class="input-field">
+                <h3>university</h3>
+                <input type="text" name="university" placeholder="university" autocomplete="nope">
+            </div>
+
+            <div class="input-field">
+                <h3>department</h3>
+                <input type="text" name="department" placeholder="department" autocomplete="nope">
+            </div>
+
+
+            <div class="input-field">
+                <h3>Photo</h3>
+                <input type="file" name="photo" placeholder="username" autocomplete="nope">
+            </div>
+
+            <div class="input-field">
+                <h3>Username </h3>
+                <input type="text" name="uname" placeholder="username" autocomplete="nope">
+            </div>
+
+            <div class="input-field">
+                <h3>password</h3>
+                <input type="password" name="pass" placeholder="password" autocomplete="nope">
+            </div>
+        </div>
+             
+        <div class="action">
+            <input type="submit" value="signin" class="bb" />
+        </div>
+    </form>
+</div>

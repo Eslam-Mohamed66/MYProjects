@@ -1,0 +1,26 @@
+﻿@model IList<Gate.Models.user>
+
+@{
+    ViewBag.Title = "Allperson";
+}
+
+<form method="post" action="/profile/some" >
+    <label class="label label-info" >Search</label>
+    <input type="text" name="name" class="form-control rounded" placeholder="Search" aria-label="Search" aria-describedby="search-addon"/>
+    <input type="submit"  value="Find" class="btn btn-outline-primary"/>
+</form>
+<div class="block">
+    @{
+        foreach (var item in Model)
+        {
+            <div class="item">
+                <div>
+                    <a href="/profile/one_person/@item.id">
+                        <img src="@item.photo" height="200px" />
+                    </a>
+                    <h3>@item.fname @item.lname</h3>
+                </div>
+            </div>
+        }
+    }
+</div>

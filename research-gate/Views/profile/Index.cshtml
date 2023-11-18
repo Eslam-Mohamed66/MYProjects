@@ -1,0 +1,77 @@
+﻿@model Gate.Models.user
+@using Gate.Models;
+
+@{
+    ViewBag.Title = "Index";
+       
+}
+<img src="@Model.photo" height="200px" class="myimg"/>
+
+
+<h3>@Model.fname @Model.lname </h3>
+
+@{if (Session["userid"].ToString() == Model.id.ToString())
+    {
+        <h3>
+            <a href="/profile/addpaper">Add paper</a>
+        </h3>
+    }
+}
+<br />
+<br />
+
+
+
+
+@{foreach (var item in Model.Ps)
+    {
+        <a href="/profile/viewpaper/@item.id"  >
+            <img src="@item.file" height="100px" />
+        </a>
+        <h5>@item.name</h5>
+        
+        <div class="block1">
+        
+        <div>
+        
+        <label>@item.Reacts.Where(m => m.rea == 1).ToList().Count()</label>
+        <input type="button" value="like" onclick="sendReact('@item.id','@Session["userid"]',1)" />
+        <label>@item.Reacts.Where(m => m.rea == 2).ToList().Count()</label>
+        <input type="button" value="dislike" onclick="sendReact('@item.id','@Session["userid"]',2)" />
+        
+        </div>
+        
+        <div>
+        <input type="text" id="@item.id" />
+        <input type="button" onclick="sendcomment('@item.id','@Session["userid"]')" value="send" />
+        </div>
+        
+        <div>
+        <form method="post" action="profile/add_user_to_paper/@item.id">
+            <label>user in paper</label>
+            <select name="user">
+                @{
+                    foreach (var it in ViewBag.users)
+                    {
+                        <option value="@it.id"> @it.fname @it.lname </option>
+                    }
+                }
+            </select>
+            <input type="submit" value="send" />
+        </form>
+        </div>
+        </div>
+        
+        foreach (var i in item.Comms)
+        {
+            <h3>
+            <a href="/profile/one_person/@i.User.id">@i.User.fname @i.User.lname</a> :: @i.comment</h3>
+        }
+        <h1>______________________________________________</h1>
+    }
+}
+}
+
+
+<script src="~/Scripts/Comment.js"></script>
+<script src="~/Scripts/react.js"></script>

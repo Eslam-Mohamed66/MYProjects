@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "addpaper";
+}
+
+<div class="login-form">
+    <form method="post" action="/profile/addpaper" enctype="multipart/form-data">
+        <h1>Login</h1>
+        <div class="content">
+            <div class="input-field">
+                <h3>Name</h3>
+                <input type="text" placeholder="name" name="name" autocomplete="nope">
+            </div>
+
+            <div class="input-field">
+                <h3>photo</h3>
+                <input type="file" name="file">
+            </div>
+
+            <div class="input-field">
+                <h3>phaper</h3>
+                <input type="file" name="file1" accept="application/pdf,application/vnd.ms-excel">
+            </div>
+        </div>
+        <div class="action">
+            <input type="submit" value="send" class="bb" />
+        </div>
+    </form>
+</div>

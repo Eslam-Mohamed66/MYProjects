@@ -1,0 +1,48 @@
+﻿@model Gate.Models.user
+
+@{
+    ViewBag.Title = "one_person";
+}
+
+<h2>@ViewBag.name</h2>
+
+<img src="@Model.photo" height="200px" />
+<h3>@Model.fname @Model.lname </h3>
+
+@{if (Session["userid"].ToString() == Model.id.ToString())
+    {
+        <h3>
+            <a href="/profile/addpaper">Add paper</a>
+        </h3>
+    }
+}
+
+<br />
+<br />
+<br />
+
+@{foreach (var item in Model.Ps)
+    {
+        <a href="/profile/viewpaper/@item.id">
+            <img src="@item.file" height="100px" />
+        </a>
+        <h5>@item.name </h5>
+        <br />
+        <label>@item.Reacts.Where(m => m.rea == 1).ToList().Count()</label>
+        <input type="button" value="like" onclick="sendReact('@item.id','@Session["userid"]',1)" />
+        <label>@item.Reacts.Where(m => m.rea == 2).ToList().Count()</label>
+        <input type="button" value="dislike" onclick="sendReact('@item.id','@Session["userid"]',2)" />
+        <br />
+            <input type="text" id="@item.id" />
+            <input type="button" onclick="sendcomment('@item.id','@Session["userid"]')" value="send" />
+            foreach (var i in item.Comms)
+            {
+            <h4><a href="/profile/one_person/@i.User.id">@i.User.fname @i.User.lname</a> // @i.comment</h4>
+            }
+            <h1>______________________________________________</h1>
+   }
+  }
+
+<script src="~/Scripts/Comment.js"></script>
+<script src="~/Scripts/react.js"></script>
+

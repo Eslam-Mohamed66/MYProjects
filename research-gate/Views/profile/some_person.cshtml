@@ -1,0 +1,15 @@
+﻿@model IList<Gate.Models.user>
+
+@{
+    ViewBag.Title = "some_person";
+}
+
+@{
+    foreach (var item in Model)
+    {
+        <a href="/profile/one_person/@item.id">
+        <img src="@item.photo" height="150px" /></a>
+        <h3>@item.fname @item.lname</h3>
+    }
+}
+

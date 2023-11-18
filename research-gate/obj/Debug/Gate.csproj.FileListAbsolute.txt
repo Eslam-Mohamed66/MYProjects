@@ -1,0 +1,273 @@
+C:\Users\abdo\Desktop\New folder\Gate\bin\Gate.dll.config
+C:\Users\abdo\Desktop\New folder\Gate\bin\Gate.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\Gate.pdb
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\csc.exe
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\csc.exe.config
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\csc.rsp
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\csi.exe
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\csi.exe.config
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\csi.rsp
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.AppContext.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Console.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.IO.Compression.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Net.Http.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Net.Sockets.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.ValueTuple.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\vbc.exe
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\vbc.exe.config
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\vbc.rsp
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\VBCSCompiler.exe
+C:\Users\abdo\Desktop\New folder\Gate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abdo\Desktop\New folder\Gate\bin\Antlr3.Runtime.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\Newtonsoft.Json.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Net.Http.Formatting.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.Helpers.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.Http.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.Http.WebHost.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.Mvc.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.Optimization.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.Razor.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.WebPages.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.WebPages.Razor.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\WebGrease.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.Helpers.xml
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.Mvc.xml
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.Optimization.xml
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.Razor.xml
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.WebPages.xml
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.WebPages.Razor.xml
+C:\Users\abdo\Desktop\New folder\Gate\bin\Newtonsoft.Json.xml
+C:\Users\abdo\Desktop\New folder\Gate\bin\Antlr3.Runtime.pdb
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Net.Http.Formatting.xml
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.Http.xml
+C:\Users\abdo\Desktop\New folder\Gate\bin\System.Web.Http.WebHost.xml
+C:\Users\abdo\Desktop\New folder\Gate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abdo\Desktop\New folder\Gate\obj\Debug\Gate.csproj.AssemblyReference.cache
+C:\Users\abdo\Desktop\New folder\Gate\obj\Debug\Gate.csproj.CoreCompileInputs.cache
+C:\Users\abdo\Desktop\New folder\Gate\obj\Debug\Gate.csproj.CopyComplete
+C:\Users\abdo\Desktop\New folder\Gate\obj\Debug\Gate.dll
+C:\Users\abdo\Desktop\New folder\Gate\obj\Debug\Gate.pdb
+C:\Users\abdo\Desktop\New folder\Gate\bin\EntityFramework.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\EntityFramework.SqlServer.dll
+C:\Users\abdo\Desktop\New folder\Gate\bin\EntityFramework.xml
+C:\Users\abdo\Desktop\New folder\Gate\bin\EntityFramework.SqlServer.xml
+C:\Users\abdo\Desktop\New folder\Gate\obj\Debug\Gate.Migrations.z1.resources
+C:\Users\abdo\Desktop\New folder\Gate\obj\Debug\Gate.csproj.GenerateResource.cache
+C:\Users\abdo\Desktop\Gate\bin\Gate.dll.config
+C:\Users\abdo\Desktop\Gate\bin\Gate.dll
+C:\Users\abdo\Desktop\Gate\bin\Gate.pdb
+C:\Users\abdo\Desktop\Gate\bin\roslyn\csc.exe
+C:\Users\abdo\Desktop\Gate\bin\roslyn\csc.exe.config
+C:\Users\abdo\Desktop\Gate\bin\roslyn\csc.rsp
+C:\Users\abdo\Desktop\Gate\bin\roslyn\csi.exe
+C:\Users\abdo\Desktop\Gate\bin\roslyn\csi.exe.config
+C:\Users\abdo\Desktop\Gate\bin\roslyn\csi.rsp
+C:\Users\abdo\Desktop\Gate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abdo\Desktop\Gate\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abdo\Desktop\Gate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abdo\Desktop\Gate\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.AppContext.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Console.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.IO.Compression.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Net.Http.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Net.Sockets.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.ValueTuple.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abdo\Desktop\Gate\bin\roslyn\vbc.exe
+C:\Users\abdo\Desktop\Gate\bin\roslyn\vbc.exe.config
+C:\Users\abdo\Desktop\Gate\bin\roslyn\vbc.rsp
+C:\Users\abdo\Desktop\Gate\bin\roslyn\VBCSCompiler.exe
+C:\Users\abdo\Desktop\Gate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abdo\Desktop\Gate\bin\Antlr3.Runtime.dll
+C:\Users\abdo\Desktop\Gate\bin\EntityFramework.dll
+C:\Users\abdo\Desktop\Gate\bin\EntityFramework.SqlServer.dll
+C:\Users\abdo\Desktop\Gate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abdo\Desktop\Gate\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abdo\Desktop\Gate\bin\Newtonsoft.Json.dll
+C:\Users\abdo\Desktop\Gate\bin\System.Net.Http.Formatting.dll
+C:\Users\abdo\Desktop\Gate\bin\System.Web.Helpers.dll
+C:\Users\abdo\Desktop\Gate\bin\System.Web.Http.dll
+C:\Users\abdo\Desktop\Gate\bin\System.Web.Http.WebHost.dll
+C:\Users\abdo\Desktop\Gate\bin\System.Web.Mvc.dll
+C:\Users\abdo\Desktop\Gate\bin\System.Web.Optimization.dll
+C:\Users\abdo\Desktop\Gate\bin\System.Web.Razor.dll
+C:\Users\abdo\Desktop\Gate\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abdo\Desktop\Gate\bin\System.Web.WebPages.dll
+C:\Users\abdo\Desktop\Gate\bin\System.Web.WebPages.Razor.dll
+C:\Users\abdo\Desktop\Gate\bin\WebGrease.dll
+C:\Users\abdo\Desktop\Gate\bin\EntityFramework.xml
+C:\Users\abdo\Desktop\Gate\bin\EntityFramework.SqlServer.xml
+C:\Users\abdo\Desktop\Gate\bin\System.Web.Helpers.xml
+C:\Users\abdo\Desktop\Gate\bin\System.Web.Mvc.xml
+C:\Users\abdo\Desktop\Gate\bin\System.Web.Optimization.xml
+C:\Users\abdo\Desktop\Gate\bin\System.Web.Razor.xml
+C:\Users\abdo\Desktop\Gate\bin\System.Web.WebPages.xml
+C:\Users\abdo\Desktop\Gate\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abdo\Desktop\Gate\bin\System.Web.WebPages.Razor.xml
+C:\Users\abdo\Desktop\Gate\bin\Newtonsoft.Json.xml
+C:\Users\abdo\Desktop\Gate\bin\Antlr3.Runtime.pdb
+C:\Users\abdo\Desktop\Gate\bin\System.Net.Http.Formatting.xml
+C:\Users\abdo\Desktop\Gate\bin\System.Web.Http.xml
+C:\Users\abdo\Desktop\Gate\bin\System.Web.Http.WebHost.xml
+C:\Users\abdo\Desktop\Gate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abdo\Desktop\Gate\obj\Debug\Gate.csproj.AssemblyReference.cache
+C:\Users\abdo\Desktop\Gate\obj\Debug\Gate.csproj.CoreCompileInputs.cache
+C:\Users\abdo\Desktop\Gate\obj\Debug\Gate.csproj.CopyComplete
+C:\Users\abdo\Desktop\Gate\obj\Debug\Gate.dll
+C:\Users\abdo\Desktop\Gate\obj\Debug\Gate.pdb
+C:\Users\abdo\Desktop\Gate\obj\Debug\Gate.Migrations.oo.resources
+C:\Users\abdo\Desktop\Gate\obj\Debug\Gate.csproj.GenerateResource.cache
+D:\project ia\Gate88\Gate\bin\Gate.dll.config
+D:\project ia\Gate88\Gate\bin\Gate.dll
+D:\project ia\Gate88\Gate\bin\Gate.pdb
+D:\project ia\Gate88\Gate\bin\roslyn\csc.exe
+D:\project ia\Gate88\Gate\bin\roslyn\csc.exe.config
+D:\project ia\Gate88\Gate\bin\roslyn\csc.rsp
+D:\project ia\Gate88\Gate\bin\roslyn\csi.exe
+D:\project ia\Gate88\Gate\bin\roslyn\csi.exe.config
+D:\project ia\Gate88\Gate\bin\roslyn\csi.rsp
+D:\project ia\Gate88\Gate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project ia\Gate88\Gate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project ia\Gate88\Gate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\project ia\Gate88\Gate\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project ia\Gate88\Gate\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\project ia\Gate88\Gate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project ia\Gate88\Gate\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project ia\Gate88\Gate\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\project ia\Gate88\Gate\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\project ia\Gate88\Gate\bin\roslyn\Microsoft.Managed.Core.targets
+D:\project ia\Gate88\Gate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project ia\Gate88\Gate\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.AppContext.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Collections.Immutable.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Console.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Globalization.Calendars.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.IO.Compression.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.IO.FileSystem.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Net.Http.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Net.Sockets.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Reflection.Metadata.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.ValueTuple.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Xml.XmlDocument.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Xml.XPath.dll
+D:\project ia\Gate88\Gate\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\project ia\Gate88\Gate\bin\roslyn\vbc.exe
+D:\project ia\Gate88\Gate\bin\roslyn\vbc.exe.config
+D:\project ia\Gate88\Gate\bin\roslyn\vbc.rsp
+D:\project ia\Gate88\Gate\bin\roslyn\VBCSCompiler.exe
+D:\project ia\Gate88\Gate\bin\roslyn\VBCSCompiler.exe.config
+D:\project ia\Gate88\Gate\bin\Antlr3.Runtime.dll
+D:\project ia\Gate88\Gate\bin\EntityFramework.dll
+D:\project ia\Gate88\Gate\bin\EntityFramework.SqlServer.dll
+D:\project ia\Gate88\Gate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project ia\Gate88\Gate\bin\Microsoft.Web.Infrastructure.dll
+D:\project ia\Gate88\Gate\bin\Newtonsoft.Json.dll
+D:\project ia\Gate88\Gate\bin\System.Net.Http.Formatting.dll
+D:\project ia\Gate88\Gate\bin\System.Web.Helpers.dll
+D:\project ia\Gate88\Gate\bin\System.Web.Http.dll
+D:\project ia\Gate88\Gate\bin\System.Web.Http.WebHost.dll
+D:\project ia\Gate88\Gate\bin\System.Web.Mvc.dll
+D:\project ia\Gate88\Gate\bin\System.Web.Optimization.dll
+D:\project ia\Gate88\Gate\bin\System.Web.Razor.dll
+D:\project ia\Gate88\Gate\bin\System.Web.WebPages.Deployment.dll
+D:\project ia\Gate88\Gate\bin\System.Web.WebPages.dll
+D:\project ia\Gate88\Gate\bin\System.Web.WebPages.Razor.dll
+D:\project ia\Gate88\Gate\bin\WebGrease.dll
+D:\project ia\Gate88\Gate\bin\EntityFramework.xml
+D:\project ia\Gate88\Gate\bin\EntityFramework.SqlServer.xml
+D:\project ia\Gate88\Gate\bin\System.Web.Helpers.xml
+D:\project ia\Gate88\Gate\bin\System.Web.Mvc.xml
+D:\project ia\Gate88\Gate\bin\System.Web.Optimization.xml
+D:\project ia\Gate88\Gate\bin\System.Web.Razor.xml
+D:\project ia\Gate88\Gate\bin\System.Web.WebPages.xml
+D:\project ia\Gate88\Gate\bin\System.Web.WebPages.Deployment.xml
+D:\project ia\Gate88\Gate\bin\System.Web.WebPages.Razor.xml
+D:\project ia\Gate88\Gate\bin\Newtonsoft.Json.xml
+D:\project ia\Gate88\Gate\bin\Antlr3.Runtime.pdb
+D:\project ia\Gate88\Gate\bin\System.Net.Http.Formatting.xml
+D:\project ia\Gate88\Gate\bin\System.Web.Http.xml
+D:\project ia\Gate88\Gate\bin\System.Web.Http.WebHost.xml
+D:\project ia\Gate88\Gate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project ia\Gate88\Gate\obj\Debug\Gate.csprojAssemblyReference.cache
+D:\project ia\Gate88\Gate\obj\Debug\Gate.csproj.CoreCompileInputs.cache
+D:\project ia\Gate88\Gate\obj\Debug\Gate.csproj.CopyComplete
+D:\project ia\Gate88\Gate\obj\Debug\Gate.dll
+D:\project ia\Gate88\Gate\obj\Debug\Gate.pdb
+D:\project ia\Gate88\Gate\obj\Debug\Gate.Migrations.e1.resources
+D:\project ia\Gate88\Gate\obj\Debug\Gate.csproj.GenerateResource.cache
